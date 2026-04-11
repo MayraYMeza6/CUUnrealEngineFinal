@@ -1,5 +1,9 @@
-[6552:2128:0409/234456.334:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6552:18332:0409/234456.664:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[6552:2128:0409/234456.859:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1852:17164:0409/234512.086:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-681E314CF7DCFEF51D1E5BEC3272A837 will be ignored
-[6552:15664:0409/234515.054:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[11288:2568:0410/235103.709:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11288:2568:0410/235103.711:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[11288:19924:0410/235103.749:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11288:2568:0410/235103.758:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20660:10456:0410/235107.426:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B463C5BA45C1D56AFEC98856AF8408F5 will be ignored
+[20020:17304:0411/002825.704:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-3B42724F0AFF9DA363CA80B1E98961F5 will be ignored
+[11288:2568:0411/003308.836:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[11288:2568:0411/003308.836:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[11288:2568:0411/023024.046:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

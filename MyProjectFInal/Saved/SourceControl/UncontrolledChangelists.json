@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Yayis/OneDrive/Documentos/GitHub/CUUnrealEngineFinal/MyProjectFInal/Content/M_Fondo.uasset",
+				"C:/Users/Yayis/OneDrive/Documentos/GitHub/CUUnrealEngineFinal/MyProjectFInal/Content/NewMap.umap",
+				"C:/Users/Yayis/OneDrive/Documentos/GitHub/CUUnrealEngineFinal/MyProjectFInal/Content/M_Pedestal.uasset"
+			]
+		}
+	]
+}
