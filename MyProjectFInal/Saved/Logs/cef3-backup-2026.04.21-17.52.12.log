@@ -1,0 +1,86 @@
+[2588:12072:0421/090926.633:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2588:12072:0421/090926.635:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[2588:16792:0421/090926.672:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2588:12072:0421/090926.685:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3644:16332:0421/090931.188:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-80A08D121DBB92F21A67CE362B63B86C will be ignored
+[20492:19584:0421/100733.380:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[20492:19584:0421/100733.380:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[20492:19584:0421/100733.380:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[20492:19584:0421/100733.380:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 2x2 (100% of ideal size)
+[20492:19584:0421/100733.465:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[20492:19584:0421/100733.616:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1255x714
+[20492:19584:0421/100733.617:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 2x2 to 1255x714 (100% of ideal size)
+[20492:19584:0421/100733.617:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1255x714
+[20492:19584:0421/100734.959:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[20492:19584:0421/100734.959:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[20492:19584:0421/100734.959:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1255x714
+[20492:19584:0421/100734.959:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 1255x714 (100% of ideal size)
+[5800:8964:0421/100734.960:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-8626FBF04FB3359B176497C464BF3AEB will be ignored
+[20492:19584:0421/100735.878:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1255x714
+[20492:19584:0421/100855.134:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[20492:19584:0421/100855.134:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[20492:19584:0421/100855.134:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[20492:19584:0421/100855.134:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 2x2 (100% of ideal size)
+[20492:19584:0421/100855.212:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[20492:19584:0421/100855.353:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1257x715
+[20492:19584:0421/100855.353:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 2x2 to 1257x715 (100% of ideal size)
+[20492:19584:0421/100855.353:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1257x715
+[20492:19584:0421/100856.458:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[20492:19584:0421/100856.458:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[20492:19584:0421/100856.458:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1257x715
+[20492:19584:0421/100856.458:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 1257x715 (100% of ideal size)
+[11396:4948:0421/100856.458:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-B3C7AD25C7491DE18730332CC4D4EEC2 will be ignored
+[20492:19584:0421/100857.026:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1257x715
+[20492:19584:0421/100953.575:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.593:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.608:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.625:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.642:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.660:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.693:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.708:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.726:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.742:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.758:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.775:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.792:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.808:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.826:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.842:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.858:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.875:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.893:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.909:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.924:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.942:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/100953.960:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #739).
+[20492:19584:0421/101740.223:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[20492:19584:0421/101740.223:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[20492:19584:0421/101740.223:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[20492:19584:0421/101740.223:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 2x2 (100% of ideal size)
+[20492:19584:0421/101740.307:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[20492:19584:0421/101740.395:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1259x718
+[20492:19584:0421/101740.395:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 2x2 to 1259x718 (100% of ideal size)
+[20492:19584:0421/101740.395:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1259x718
+[20492:19584:0421/101742.070:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[25368:6756:0421/101742.070:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame E-3EB15565843BE0331E60AB8777980016 will be ignored
+[20492:19584:0421/101742.070:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[20492:19584:0421/101742.070:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1259x718
+[20492:19584:0421/101742.070:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 1259x718 (100% of ideal size)
+[20492:19584:0421/101742.637:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1259x718
+[20492:19584:0421/101758.294:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #269).
+[20492:19584:0421/101758.359:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #272).
+[20492:19584:0421/101758.376:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #272).
+[20492:19584:0421/101758.441:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #275).
+[20492:19584:0421/101758.508:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #278).
+[20492:19584:0421/101758.524:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #278).
+[20492:19584:0421/101759.008:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #298).
+[20492:19584:0421/101759.027:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #298).
+[20492:19584:0421/101759.091:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #301).
+[20492:19584:0421/101759.140:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #303).
+[20492:19584:0421/101759.159:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #303).
+[20492:19584:0421/101759.225:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #306).
+[20492:19584:0421/101759.241:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #306).
+[20492:19584:0421/101844.587:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #833).
+[20492:19584:0421/101844.638:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #835).
+[2236:18868:0421/115212.325:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 10-5CC25762739D8A460DC5E9360502BD84 will be ignored

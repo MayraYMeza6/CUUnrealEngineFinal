@@ -1,3 +1,5 @@
-2026/04/14-19:54:59.241 34a8 Reusing MANIFEST C:\Users\Yayis\OneDrive\Documentos\GitHub\CUUnrealEngineFinal\MyProjectFInal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/14-19:54:59.250 34a8 Recovering log #4
-2026/04/14-19:54:59.254 34a8 Reusing old log C:\Users\Yayis\OneDrive\Documentos\GitHub\CUUnrealEngineFinal\MyProjectFInal\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/04/21-12:03:51.448 3130 Reusing MANIFEST C:\Users\Yayis\OneDrive\Documentos\GitHub\CUUnrealEngineFinal\MyProjectFInal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/21-12:03:51.455 3130 Recovering log #18
+2026/04/21-12:03:51.455 3130 Level-0 table #21: started
+2026/04/21-12:03:51.461 3130 Level-0 table #21: 83038 bytes OK
+2026/04/21-12:03:51.466 3130 Delete type=0 #18
